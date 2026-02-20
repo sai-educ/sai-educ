@@ -1,21 +1,17 @@
 # Sai Gattupalli, Ph.D.
 
-**Research Domains:** AI and Computational Literacies, Society and AI, Modeling Translation, Learning Technologies, Intelligent Tutoring Systems  
-**Welcome:** Namaste | నమస్తే | नमस्ते
+Hello, I am Sai Gattupalli, Ph.D.
 
-As a scientist working at the intersection of computing, data, and human-centered systems, my research focuses on the design, modeling, and empirical evaluation of AI-enabled technologies. I investigate how theoretical, statistical, and computational models translate into real-world implementations, examining how assumptions embedded in algorithms, interfaces, and system architectures shape system behavior, robustness, and human interaction.
+I am a scientist whose research spans computing, educational technology, AI and society, and intelligent tutoring systems. My scholarship focuses on the design, modeling, and evaluation of AI-enabled systems, with particular attention to translating computational models into real-world, human-centered implementations and studying their social and educational impact.
 
-A central contribution of my work lies in **modeling translation**: the systematic adaptation of conceptual and computational frameworks into operational systems and decision contexts (**Model -> Implementation**). This includes aligning theoretical assumptions with implementation constraints and examining how adaptive components, feedback architectures, and AI-enabled interfaces perform under real-world conditions.
-
-While education serves as a primary applied context for this research, the methods and modeling approaches I use are broadly applicable across domains where AI systems interact with people, data, and organizational constraints. My work spans system prototyping, experimental design, mixed-methods analysis, and human-in-the-loop evaluation, supporting the translation of research insights into deployable, decision-relevant systems.
-
-## Appointments
-
-- Principal Scientist, Society & AI Research Group
-- Postdoctoral Researcher (Alumni), Advanced Learning Technologies Lab
+Browse through my popular repositories below and explore my work.
 
 ## Connect
 
-- Website: [saigattupalli.com](https://saigattupalli.com)
-- ORCID: [0000-0002-5593-2986](https://orcid.org/0000-0002-5593-2986)
-- LinkedIn: [in/gattusai](https://www.linkedin.com/in/gattusai/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gattusai/)
+[![Society%20and%20AI](https://img.shields.io/badge/Society%20and%20AI-1f4b99?style=for-the-badge&logo=googlescholar&logoColor=white)](https://societyandai.org)
+
+## You can also find me here
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/gsat)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sai@societyandai.org)
