@@ -1,6 +1,6 @@
 # Sai Gattupalli, Ph.D.
 
-Hello, I am Sai Gattupalli, Ph.D.
+Hello, I am Sai and welcome to my GitHub profile.
 
 I am a scientist whose research spans computing, educational technology, AI and society, and intelligent tutoring systems. My scholarship focuses on the design, modeling, and evaluation of AI-enabled systems, with particular attention to translating computational models into real-world, human-centered implementations and studying their social and educational impact.
 
